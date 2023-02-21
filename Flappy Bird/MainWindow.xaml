@@ -1,0 +1,34 @@
+﻿<Window x:Class="Flappy_Bird.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Flappy_Bird"
+        mc:Ignorable="d"
+        Title="Flappy Bird" Height="490" Width="525">
+    <Canvas x:Name="Pole" Focusable="True" KeyDown="KeyNotPress" KeyUp="KeyPress" Background="LightBlue">
+
+        <Image Height="145" Width="200" Source="Obrazky/clouds.png" Canvas.Left="308" Canvas.Top="117" Tag="cloud"></Image>
+        <Image Height="145" Width="200" Source="Obrazky/clouds2.png" Canvas.Left="186" Canvas.Top="117" Tag="cloud"></Image>
+
+        <Image Height="390" Width="66" Source="Obrazky/pipeBottom.png" Tag="obs1" Canvas.Left="61" Canvas.Top="173"></Image>
+        <Image Height="390" Width="66" Source="Obrazky/pipeTop.png" Tag="obs1" Canvas.Left="61" Canvas.Top="-322"></Image>
+
+        <Image Height="390" Width="66" Source="Obrazky/pipeBottom.png" Tag="obs2" Canvas.Left="442" Canvas.Top="194"></Image>
+        <Image Height="390" Width="66" Source="Obrazky/pipeTop.png" Tag="obs2" Canvas.Left="442" Canvas.Top="-305"></Image>
+
+        <Image Height="390" Width="66" Source="Obrazky/pipeBottom.png" Tag="obs3" Canvas.Left="256" Canvas.Top="339"></Image>
+        <Image Height="390" Width="66" Source="Obrazky/pipeTop.png" Tag="obs3" Canvas.Left="256" Canvas.Top="-169"></Image>
+
+        <Image x:Name="FlappyBird" Height="36" Width="50" Source="Obrazky/flappybird.png" Stretch="Fill" Canvas.Left="0" Canvas.Top="190" RenderTransformOrigin="0.568,0.072"></Image>
+
+        <Label Name="txtScore" FontSize="25" FontWeight="ExtraBold" Content="Score: 0" Canvas.Top="19" Canvas.Left="210" Width="112"></Label>
+        <Label x:Name="txtGameOver" FontSize="80" FontWeight="ExtraBold" Content="" Canvas.Top="194" Canvas.Left="0" VerticalAlignment="Center" Height="154" Width="508" IsEnabled="False"/>
+        <Label x:Name="txtGameStart" FontSize="80" FontWeight="ExtraBold" Content="" Canvas.Top="194" Canvas.Left="100"  Height="154" Width="508" IsEnabled ="True" />
+        <Label x:Name="txtScoreOver" FontSize="12" FontWeight="ExtraBold" Content="" Canvas.Top="407" Canvas.Left="10" Width="498"/>
+
+
+
+
+    </Canvas>
+</Window>

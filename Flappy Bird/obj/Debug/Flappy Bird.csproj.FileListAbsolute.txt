@@ -1,0 +1,15 @@
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.pdb
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\MainWindow.g.cs
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\App.g.cs
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.cache
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.lref
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\MainWindow.baml
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.g.resources
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
+D:\Projekt Programovani Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
